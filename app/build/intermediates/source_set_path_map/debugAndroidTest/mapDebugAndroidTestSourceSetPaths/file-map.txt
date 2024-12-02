@@ -1,0 +1,6 @@
+com.example.duan1t1.test.app-annotation-experimental-1.3.0-0 C:\Users\itvip\.gradle\caches\transforms-3\227262a24ead00c9a580da76f9903f5e\transformed\annotation-experimental-1.3.0\res
+com.example.duan1t1.test.app-core-1.5.0-1 C:\Users\itvip\.gradle\caches\transforms-3\2bc3c4a153c737923b338c73fc78d5ac\transformed\core-1.5.0\res
+com.example.duan1t1.test.app-androidTest-2 C:\Users\itvip\OneDrive\Desktop\ANDROID\duan1t1\app\build\generated\res\resValues\androidTest\debug
+com.example.duan1t1.test.app-mergeDebugAndroidTestResources-3 C:\Users\itvip\OneDrive\Desktop\ANDROID\duan1t1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.duan1t1.test.app-mergeDebugAndroidTestResources-4 C:\Users\itvip\OneDrive\Desktop\ANDROID\duan1t1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.duan1t1.test.app-debugAndroidTest-5 C:\Users\itvip\OneDrive\Desktop\ANDROID\duan1t1\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://demoapp-16a06-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">333076752469</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZOU2xLLebhVEeepLyYUBAadNzJjSiPSc</string>
+    <string name="google_app_id" translatable="false">1:333076752469:android:c8aaac544f03c934204cdc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZOU2xLLebhVEeepLyYUBAadNzJjSiPSc</string>
+    <string name="google_storage_bucket" translatable="false">demoapp-16a06.appspot.com</string>
+    <string name="project_id" translatable="false">demoapp-16a06</string>
+</resources>

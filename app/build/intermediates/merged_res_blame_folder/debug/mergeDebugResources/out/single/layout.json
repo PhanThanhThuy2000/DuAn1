@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_danhsachyeucaunap.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_danhsachyeucaunap.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_man_hinh_khoi_dau.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_man_hinh_khoi_dau.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_list_sanpham_mua.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_list_sanpham_mua.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_cuahang_sanpham.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_cuahang_sanpham.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_frg__quan_ly_k_h__l_s.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_frg__quan_ly_k_h__l_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\tab_khoanchi.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\tab_khoanchi.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\frangment_choxacnhan.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\frangment_choxacnhan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog_updateprofile.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_updateprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_man_hinh_chao.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_man_hinh_chao.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog_nhanvien.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_nhanvien.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog_anh.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_anh.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_thong_ke__doanh_thu.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_thong_ke__doanh_thu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_cuahang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_cuahang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_quan_ly_khach_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_quan_ly_khach_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_dang_ky.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_dang_ky.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_lichsugg.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_lichsugg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_sanpham_show.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_sanpham_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog__doi_mat_khau.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog__doi_mat_khau.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_thongbao.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_thongbao.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog_hotro.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_hotro.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog_lichsu.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_lichsu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_top10sp.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_top10sp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog_themsp.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_themsp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_frg__thong_ke.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_frg__thong_ke.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_kichco_add.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_kichco_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_ql_don_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_ql_don_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_dang_nhap.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_dang_nhap.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_thong_ke__top10_s_p.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_thong_ke__top10_s_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_kichco.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_kichco.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_cuahang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_cuahang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_frg_hotro.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_frg_hotro.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog_naptien.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_naptien.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_quan_ly_don_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_quan_ly_don_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_man_hinh_admin.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_man_hinh_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_quan_ly_giay.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_quan_ly_giay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_show_more.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_show_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_loat_don_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_loat_don_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_giohang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_giohang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_thongtintaikhoan.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_thongtintaikhoan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_man_hinh_nhan_vien.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_man_hinh_nhan_vien.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_frg_lichsunap.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_frg_lichsunap.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog_quenpass.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_quenpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\tab_thongtincanhan.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\tab_thongtincanhan.xml"
+    },
+    {
+        "merged": "com.example.duan1t1.app-mergeDebugResources-40:/layout/activity_dang_ky.xml",
+        "source": "com.example.duan1t1.app-main-43:/layout/activity_dang_ky.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_gio_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_gio_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_man_hinh_khach_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_man_hinh_khach_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_load.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_quan_ly_giay.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_quan_ly_giay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_quan_ly_khach_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_quan_ly_khach_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_quan_ly_nhan_vien.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_quan_ly_nhan_vien.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\fragment_frg_quan_ly_hoa_don.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_frg_quan_ly_hoa_don.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_chodon.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_chodon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\dialog_them_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_them_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-mergeDebugResources-40:\\layout\\item_list_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_list_hang.xml"
+    }
+]

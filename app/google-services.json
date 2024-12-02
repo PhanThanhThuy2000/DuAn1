@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "333076752469",
+    "firebase_url": "https://demoapp-16a06-default-rtdb.firebaseio.com",
+    "project_id": "demoapp-16a06",
+    "storage_bucket": "demoapp-16a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333076752469:android:c8aaac544f03c934204cdc",
+        "android_client_info": {
+          "package_name": "com.example.duan1t1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOU2xLLebhVEeepLyYUBAadNzJjSiPSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
