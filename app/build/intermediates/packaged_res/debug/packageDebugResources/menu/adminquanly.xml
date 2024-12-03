@@ -2,23 +2,23 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/menu_admin_qlnv"
+        android:title="Nhân viên"
         android:icon="@drawable/people"
-        android:title="" />
+        />
     <item
         android:id="@+id/menu_admin_qlkh"
         android:icon="@drawable/many_people"
-        android:title="" />
+        android:title="Khách hàng" />
     <item
         android:id="@+id/menu_admin_thongke"
         android:icon="@drawable/barchart"
-        android:title="" />
+        android:title="Thống kê" />
     <item
         android:id="@+id/menu_admin_qlsp"
         android:icon="@drawable/sportshoe"
-        android:title="" />
+        android:title="Sản phẩm" />
     <item
         android:id="@+id/menu_admin_resetpass"
         android:icon="@drawable/resetpassword"
-        android:title="" />
-
+        android:title="Đổi mật khẩu" />
 </menu>

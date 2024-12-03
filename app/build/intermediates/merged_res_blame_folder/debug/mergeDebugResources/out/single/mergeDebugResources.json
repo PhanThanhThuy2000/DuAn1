@@ -8,24 +8,28 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_dang_ky.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_dialog_hotro.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_hotro.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_item_chodon.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_chodon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_dialog_hotro.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_hotro.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_fragment_quan_ly_giay.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_quan_ly_giay.xml"
     },
     {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_shape_icon2.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\shape_icon2.xml"
+    },
+    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_shape_none.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\shape_none.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_shape_icon2.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\shape_icon2.xml"
+        "merged": "com.example.duan1t1.app-debug-41:/layout_item_list_sanpham_mua.xml.flat",
+        "source": "com.example.duan1t1.app-main-43:/layout/item_list_sanpham_mua.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_item_lichsugg.xml.flat",
@@ -44,16 +48,16 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\many_people.png"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_password.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\password.png"
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_activity_thongtintaikhoan.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_thongtintaikhoan.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_dialog_nhanvien.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_nhanvien.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_activity_thongtintaikhoan.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_thongtintaikhoan.xml"
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_password.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\password.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_edit.png.flat",
@@ -62,6 +66,10 @@
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_item_thongbao.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\item_thongbao.xml"
+    },
+    {
+        "merged": "com.example.duan1t1.app-debug-41:/layout_item_quan_ly_khach_hang.xml.flat",
+        "source": "com.example.duan1t1.app-main-43:/layout/item_quan_ly_khach_hang.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -94,10 +102,6 @@
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_more.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\more.png"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_banner_giay.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\banner_giay.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_shape_icon1.xml.flat",
@@ -144,6 +148,10 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\donhang.webp"
     },
     {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_logofpt.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\logofpt.png"
+    },
+    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_baseline_add_card_24.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\baseline_add_card_24.xml"
     },
@@ -166,6 +174,10 @@
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_dialog_anh.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\dialog_anh.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_account.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\account.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_acceptdis.png.flat",
@@ -240,6 +252,10 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\ic_home.xml"
     },
     {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\img_3.png"
+    },
+    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_img_delete.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\img_delete.xml"
     },
@@ -274,6 +290,10 @@
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_baseline_account_balance_wallet_24.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\baseline_account_balance_wallet_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\color_color_item_bottom_nav.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\color\\color_item_bottom_nav.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -334,6 +354,10 @@
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_call.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_img.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\img.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_logo3.png.flat",
@@ -408,6 +432,10 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\xehang.png"
     },
     {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_bg_log.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\bg_log.png"
+    },
+    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_activity_sanpham_show.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_sanpham_show.xml"
     },
@@ -426,6 +454,10 @@
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\img_1.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_shape_botron.xml.flat",
@@ -492,12 +524,16 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\baseline_calendar_month_24.xml"
     },
     {
-        "merged": "com.example.duan1t1.app-debug-41:/layout_activity_dang_ky.xml.flat",
-        "source": "com.example.duan1t1.app-main-43:/layout/activity_dang_ky.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_bell.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "com.example.duan1t1.app-debug-41:/layout_item_kichco.xml.flat",
+        "source": "com.example.duan1t1.app-main-43:/layout/item_kichco.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\drawable_baseline_question_mark_24.xml.flat",
@@ -526,6 +562,10 @@
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_fragment_thong_ke__doanh_thu.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-main-43:\\layout\\fragment_thong_ke__doanh_thu.xml"
+    },
+    {
+        "merged": "com.example.duan1t1.app-debug-41:/layout_item_quan_ly_giay.xml.flat",
+        "source": "com.example.duan1t1.app-main-43:/layout/item_quan_ly_giay.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.example.duan1t1.app-debug-41:\\layout_fragment_frg_hotro.xml.flat",

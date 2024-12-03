@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/menu_khachhang_danhsachsp"
-        android:title=""
+        android:title="Mua hàng"
         android:icon="@drawable/shoes"
         />
 
     <item android:id="@+id/menu_khachhang_giohang"
-        android:title=""
+        android:title="Giỏ hàng"
         android:icon="@drawable/shoppingcart"
         />
     <item android:id="@+id/menu_khachhang_hotro"
-        android:title=""
+        android:title="Hỗ trợ"
         android:icon="@drawable/agent"
         />
 
     <item android:id="@+id/menu_khachhang_hoadon"
-        android:title=""
+        android:title="Hóa đơn"
         android:icon="@drawable/bill_kh"
         />
     <item android:id="@+id/menu_khachhang_thongtincanhan"
-        android:title=""
-        android:icon="@drawable/user1"
+        android:title="Thông tin"
+        android:icon="@drawable/account"
         />
 </menu>

@@ -4,47 +4,29 @@ package com.example.duan1t1.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.TextView;
+import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
-import androidx.viewbinding.ViewBindings;
 import com.example.duan1t1.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
-import java.lang.String;
 
 public final class ActivityManHinhChaoBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final LinearLayout rootView;
 
   @NonNull
-  public final ImageView imvIcon1;
+  public final LinearLayout main;
 
-  @NonNull
-  public final ImageView imvLogo;
-
-  @NonNull
-  public final TextView tvCreator;
-
-  @NonNull
-  public final TextView tvTittle;
-
-  private ActivityManHinhChaoBinding(@NonNull ConstraintLayout rootView,
-      @NonNull ImageView imvIcon1, @NonNull ImageView imvLogo, @NonNull TextView tvCreator,
-      @NonNull TextView tvTittle) {
+  private ActivityManHinhChaoBinding(@NonNull LinearLayout rootView, @NonNull LinearLayout main) {
     this.rootView = rootView;
-    this.imvIcon1 = imvIcon1;
-    this.imvLogo = imvLogo;
-    this.tvCreator = tvCreator;
-    this.tvTittle = tvTittle;
+    this.main = main;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -65,38 +47,12 @@ public final class ActivityManHinhChaoBinding implements ViewBinding {
 
   @NonNull
   public static ActivityManHinhChaoBinding bind(@NonNull View rootView) {
-    // The body of this method is generated in a way you would not otherwise write.
-    // This is done to optimize the compiled bytecode for size and performance.
-    int id;
-    missingId: {
-      id = R.id.imv_icon1;
-      ImageView imvIcon1 = ViewBindings.findChildViewById(rootView, id);
-      if (imvIcon1 == null) {
-        break missingId;
-      }
-
-      id = R.id.imv_logo;
-      ImageView imvLogo = ViewBindings.findChildViewById(rootView, id);
-      if (imvLogo == null) {
-        break missingId;
-      }
-
-      id = R.id.tv_creator;
-      TextView tvCreator = ViewBindings.findChildViewById(rootView, id);
-      if (tvCreator == null) {
-        break missingId;
-      }
-
-      id = R.id.tv_tittle;
-      TextView tvTittle = ViewBindings.findChildViewById(rootView, id);
-      if (tvTittle == null) {
-        break missingId;
-      }
-
-      return new ActivityManHinhChaoBinding((ConstraintLayout) rootView, imvIcon1, imvLogo,
-          tvCreator, tvTittle);
+    if (rootView == null) {
+      throw new NullPointerException("rootView");
     }
-    String missingId = rootView.getResources().getResourceName(id);
-    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
+
+    LinearLayout main = (LinearLayout) rootView;
+
+    return new ActivityManHinhChaoBinding((LinearLayout) rootView, main);
   }
 }

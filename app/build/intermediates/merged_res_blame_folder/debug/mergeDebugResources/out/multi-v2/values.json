@@ -4,6 +4,25 @@
             "outputFile": "com.example.duan1t1.app-mergeDebugResources-39:/values/values.xml",
             "map": [
                 {
+                    "source": "D:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,329",
+                        "endLines": "5,7",
+                        "endColumns": "12,62",
+                        "endOffsets": "321,387"
+                    },
+                    "to": {
+                        "startLines": "2510,6424",
+                        "startColumns": "4,4",
+                        "startOffsets": "177444,450565",
+                        "endLines": "2513,6424",
+                        "endColumns": "12,61",
+                        "endOffsets": "177554,450622"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-3\\9bb79c90001fdae3a79b822477156164\\transformed\\startup-runtime-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -59,23 +78,6 @@
                     }
                 },
                 {
-                    "source": "D:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,5,4,6,3",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "17,248,198,310,127",
-                        "endColumns": "49,60,48,110,69",
-                        "endOffsets": "62,304,242,416,192"
-                    },
-                    "to": {
-                        "startLines": "1985,1993,1994,1999,2035",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "131538,132827,132888,133314,137302",
-                        "endColumns": "49,60,48,110,69",
-                        "endOffsets": "131583,132883,132932,133420,137367"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-3\\e9d17055bd05fc1d4cac9401359f9475\\transformed\\browser-1.4.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -90,25 +92,6 @@
                         "startOffsets": "33366,33424,33490,33553,62977,63048,135758,136454,136521,136600",
                         "endColumns": "57,65,62,61,70,71,67,66,78,68",
                         "endOffsets": "33419,33485,33548,33610,63043,63115,135821,136516,136595,136664"
-                    }
-                },
-                {
-                    "source": "D:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "102,329",
-                        "endLines": "5,7",
-                        "endColumns": "12,62",
-                        "endOffsets": "321,387"
-                    },
-                    "to": {
-                        "startLines": "2510,6424",
-                        "startColumns": "4,4",
-                        "startOffsets": "177444,450565",
-                        "endLines": "2513,6424",
-                        "endColumns": "12,61",
-                        "endOffsets": "177554,450622"
                     }
                 },
                 {
@@ -186,7 +169,7 @@
                     }
                 },
                 {
-                    "source": "D:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
+                    "source": "D:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -296,6 +279,23 @@
                     }
                 },
                 {
+                    "source": "D:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,6,7,3,5,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,224,263,100,185,143",
+                        "endColumns": "41,37,38,41,37,40",
+                        "endOffsets": "94,257,297,137,218,179"
+                    },
+                    "to": {
+                        "startLines": "640,653,970,971,972,973",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "32798,33730,57303,57342,57384,57422",
+                        "endColumns": "41,37,38,41,37,40",
+                        "endOffsets": "32835,33763,57337,57379,57417,57458"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-3\\a34ebbe1c58ff4c285acbac194d20157\\transformed\\play-services-basement-18.2.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -402,6 +402,23 @@
                     }
                 },
                 {
+                    "source": "D:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,5,4,6,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "17,248,198,310,127",
+                        "endColumns": "49,60,48,110,69",
+                        "endOffsets": "62,304,242,416,192"
+                    },
+                    "to": {
+                        "startLines": "1985,1993,1994,1999,2035",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "131538,132827,132888,133314,137302",
+                        "endColumns": "49,60,48,110,69",
+                        "endOffsets": "131583,132883,132932,133420,137367"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-3\\5988ec2513baca1d8d73bdc75c876f74\\transformed\\play-services-base-18.0.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -418,23 +435,6 @@
                         "endLines": "658,659,660,661,662,663,664,665,2000,2001,2002,2003,2004,2005,2006,2007,2009,2010,2011,2012,2013,2014,2015,2016,2017,11789,12786",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "34102,34182,34272,34362,34442,34523,34603,34683,133525,133706,133831,133938,134118,134241,134357,134460,134815,134920,135101,135226,135401,135549,135612,135674,135753,735491,771998"
-                    }
-                },
-                {
-                    "source": "D:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,6,7,3,5,4",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "57,224,263,100,185,143",
-                        "endColumns": "41,37,38,41,37,40",
-                        "endOffsets": "94,257,297,137,218,179"
-                    },
-                    "to": {
-                        "startLines": "640,653,970,971,972,973",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "32798,33730,57303,57342,57384,57422",
-                        "endColumns": "41,37,38,41,37,40",
-                        "endOffsets": "32835,33763,57337,57379,57417,57458"
                     }
                 },
                 {

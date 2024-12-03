@@ -4,15 +4,17 @@ package com.example.duan1t1.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.EditText;
+import android.widget.Button;
+import android.widget.CheckBox;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.AppCompatButton;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.duan1t1.R;
+import com.google.android.material.textfield.TextInputEditText;
+import com.google.android.material.textfield.TextInputLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -22,30 +24,47 @@ public final class ActivityDangNhapBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final AppCompatButton btnDangky;
+  public final Button btnDangky;
 
   @NonNull
-  public final AppCompatButton btnDangnhap;
+  public final Button btnDangnhap;
 
   @NonNull
-  public final EditText edtEmailDangnhap;
+  public final CheckBox chkRemember;
 
   @NonNull
-  public final EditText edtMatkhauDangnhap;
+  public final TextInputEditText edtEmailDangnhap;
+
+  @NonNull
+  public final TextInputEditText edtMatkhauDangnhap;
+
+  @NonNull
+  public final LinearLayout main;
 
   @NonNull
   public final TextView tvQuenpass;
 
-  private ActivityDangNhapBinding(@NonNull LinearLayout rootView,
-      @NonNull AppCompatButton btnDangky, @NonNull AppCompatButton btnDangnhap,
-      @NonNull EditText edtEmailDangnhap, @NonNull EditText edtMatkhauDangnhap,
-      @NonNull TextView tvQuenpass) {
+  @NonNull
+  public final TextInputLayout txtEmail;
+
+  @NonNull
+  public final TextInputLayout txtPass;
+
+  private ActivityDangNhapBinding(@NonNull LinearLayout rootView, @NonNull Button btnDangky,
+      @NonNull Button btnDangnhap, @NonNull CheckBox chkRemember,
+      @NonNull TextInputEditText edtEmailDangnhap, @NonNull TextInputEditText edtMatkhauDangnhap,
+      @NonNull LinearLayout main, @NonNull TextView tvQuenpass, @NonNull TextInputLayout txtEmail,
+      @NonNull TextInputLayout txtPass) {
     this.rootView = rootView;
     this.btnDangky = btnDangky;
     this.btnDangnhap = btnDangnhap;
+    this.chkRemember = chkRemember;
     this.edtEmailDangnhap = edtEmailDangnhap;
     this.edtMatkhauDangnhap = edtMatkhauDangnhap;
+    this.main = main;
     this.tvQuenpass = tvQuenpass;
+    this.txtEmail = txtEmail;
+    this.txtPass = txtPass;
   }
 
   @Override
@@ -76,28 +95,36 @@ public final class ActivityDangNhapBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.btn_dangky;
-      AppCompatButton btnDangky = ViewBindings.findChildViewById(rootView, id);
+      Button btnDangky = ViewBindings.findChildViewById(rootView, id);
       if (btnDangky == null) {
         break missingId;
       }
 
       id = R.id.btn_dangnhap;
-      AppCompatButton btnDangnhap = ViewBindings.findChildViewById(rootView, id);
+      Button btnDangnhap = ViewBindings.findChildViewById(rootView, id);
       if (btnDangnhap == null) {
         break missingId;
       }
 
+      id = R.id.chkRemember;
+      CheckBox chkRemember = ViewBindings.findChildViewById(rootView, id);
+      if (chkRemember == null) {
+        break missingId;
+      }
+
       id = R.id.edt_email_dangnhap;
-      EditText edtEmailDangnhap = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText edtEmailDangnhap = ViewBindings.findChildViewById(rootView, id);
       if (edtEmailDangnhap == null) {
         break missingId;
       }
 
       id = R.id.edt_matkhau_dangnhap;
-      EditText edtMatkhauDangnhap = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText edtMatkhauDangnhap = ViewBindings.findChildViewById(rootView, id);
       if (edtMatkhauDangnhap == null) {
         break missingId;
       }
+
+      LinearLayout main = (LinearLayout) rootView;
 
       id = R.id.tv_quenpass;
       TextView tvQuenpass = ViewBindings.findChildViewById(rootView, id);
@@ -105,8 +132,20 @@ public final class ActivityDangNhapBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.txtEmail;
+      TextInputLayout txtEmail = ViewBindings.findChildViewById(rootView, id);
+      if (txtEmail == null) {
+        break missingId;
+      }
+
+      id = R.id.txtPass;
+      TextInputLayout txtPass = ViewBindings.findChildViewById(rootView, id);
+      if (txtPass == null) {
+        break missingId;
+      }
+
       return new ActivityDangNhapBinding((LinearLayout) rootView, btnDangky, btnDangnhap,
-          edtEmailDangnhap, edtMatkhauDangnhap, tvQuenpass);
+          chkRemember, edtEmailDangnhap, edtMatkhauDangnhap, main, tvQuenpass, txtEmail, txtPass);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

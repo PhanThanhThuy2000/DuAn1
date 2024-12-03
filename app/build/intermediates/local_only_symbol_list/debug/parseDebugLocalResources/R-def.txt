@@ -2,12 +2,14 @@ R_DEF: Internal format may change without notice
 local
 color black
 color cam
+color color_item_bottom_nav
 color vang
 color white
 color xam
 color xanhla
 drawable accept
 drawable acceptdis
+drawable account
 drawable agent
 drawable barchart
 drawable baseline_account_balance_wallet_24
@@ -20,6 +22,7 @@ drawable baseline_question_mark_24
 drawable bell
 drawable bell_dis_
 drawable belldis
+drawable bg_log
 drawable bill
 drawable bill_kh
 drawable call
@@ -37,12 +40,17 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_menu
 drawable ic_person_add
+drawable img
+drawable img_1
+drawable img_2
+drawable img_3
 drawable img_delete
 drawable logo
 drawable logo1
 drawable logo2
 drawable logo3
 drawable logo4
+drawable logofpt
 drawable logogoogle
 drawable many_people
 drawable more
@@ -86,11 +94,11 @@ id bnt_tru_soluong
 id bnv_Admin
 id bnv_NhanVien
 id bnv_khachhang
+id btnLoginReg
 id btn_Huy
 id btn_Huy_nap
 id btn_Huy_yc
 id btn_Luu
-id btn_dangNhap_begin
 id btn_dangky
 id btn_dangky_on
 id btn_dangnhap
@@ -104,6 +112,7 @@ id btn_themSP
 id btn_themgio
 id btn_xacNhan_nap
 id changePassword
+id chkRemember
 id createAccount
 id cv_kichco
 id donnhap
@@ -137,9 +146,6 @@ id edt_xacnhanmk
 id fcv_Admin
 id fcv_KhachHang
 id fcv_Nhanvien
-id gl_line1
-id gl_line2
-id gl_line3
 id ibtn_Huy
 id ibtn_XacNhan
 id ibtn_addhang
@@ -152,7 +158,6 @@ id imgv_anhNap
 id imgv_anhtop10
 id imv_addAnh
 id imv_addAnh_edit
-id imv_anh
 id imv_anh_gg
 id imv_anh_sp_ct
 id imv_anh_sp_cuahang
@@ -162,9 +167,6 @@ id imv_anhchupmanhinh
 id imv_anhsp
 id imv_avatar
 id imv_cancel
-id imv_icon1
-id imv_icon2
-id imv_logo
 id imv_updatethongtin
 id iv_close
 id list_hang
@@ -251,9 +253,6 @@ id tv_Thuonghieu
 id tv_Trangthai
 id tv_chonNgayEnd
 id tv_chonNgayStart
-id tv_creator
-id tv_creator_begin
-id tv_dangky_begin
 id tv_diaChi
 id tv_doanhThu
 id tv_gia
@@ -290,12 +289,14 @@ id tv_thoigiangg
 id tv_thongbao
 id tv_thongbao_rong
 id tv_thuonghieu_gioHang
-id tv_tittle
 id tv_tittle2
 id tv_tonggia_khoanchi
 id tv_trangThai_gg
 id tv_username_khach
 id tv_xoa_giohang
+id txtConfirmPass
+id txtEmail
+id txtPass
 id user
 id viewPage2_thongtin_khach
 id view_pager2
@@ -307,7 +308,6 @@ layout activity_main
 layout activity_man_hinh_admin
 layout activity_man_hinh_chao
 layout activity_man_hinh_khach_hang
-layout activity_man_hinh_khoi_dau
 layout activity_man_hinh_nhan_vien
 layout activity_sanpham_show
 layout activity_show_more

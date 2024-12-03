@@ -1,13 +1,13 @@
-#Tue Nov 26 16:35:45 GMT+07:00 2024
-base.0=D\:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=D\:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=D\:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-base.3=D\:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.4=D\:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.5=D\:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
-base.6=D\:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.7=D\:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.8=D\:\\FPT\\KY_4\\DU_AN_1\\duan1t1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+#Tue Dec 03 09:11:31 GMT+07:00 2024
+base.0=D\:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.3=D\:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.4=D\:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.5=D\:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.6=D\:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.7=D\:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.8=D\:\\FPT\\KY_4\\DU_AN_1\\Du_an_bao_ve\\DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=12/classes.dex

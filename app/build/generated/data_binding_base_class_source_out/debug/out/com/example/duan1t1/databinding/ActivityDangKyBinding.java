@@ -4,14 +4,15 @@ package com.example.duan1t1.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.EditText;
+import android.widget.Button;
 import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.AppCompatButton;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.duan1t1.R;
+import com.google.android.material.textfield.TextInputEditText;
+import com.google.android.material.textfield.TextInputLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -21,25 +22,47 @@ public final class ActivityDangKyBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final AppCompatButton btnDangkyOn;
+  public final Button btnDangkyOn;
 
   @NonNull
-  public final EditText edtEmailDangnky;
+  public final Button btnLoginReg;
 
   @NonNull
-  public final EditText edtMatkhauDangky;
+  public final TextInputEditText edtEmailDangnky;
 
   @NonNull
-  public final EditText edtRematkhauDangky;
+  public final TextInputEditText edtMatkhauDangky;
 
-  private ActivityDangKyBinding(@NonNull LinearLayout rootView,
-      @NonNull AppCompatButton btnDangkyOn, @NonNull EditText edtEmailDangnky,
-      @NonNull EditText edtMatkhauDangky, @NonNull EditText edtRematkhauDangky) {
+  @NonNull
+  public final TextInputEditText edtRematkhauDangky;
+
+  @NonNull
+  public final LinearLayout main;
+
+  @NonNull
+  public final TextInputLayout txtConfirmPass;
+
+  @NonNull
+  public final TextInputLayout txtEmail;
+
+  @NonNull
+  public final TextInputLayout txtPass;
+
+  private ActivityDangKyBinding(@NonNull LinearLayout rootView, @NonNull Button btnDangkyOn,
+      @NonNull Button btnLoginReg, @NonNull TextInputEditText edtEmailDangnky,
+      @NonNull TextInputEditText edtMatkhauDangky, @NonNull TextInputEditText edtRematkhauDangky,
+      @NonNull LinearLayout main, @NonNull TextInputLayout txtConfirmPass,
+      @NonNull TextInputLayout txtEmail, @NonNull TextInputLayout txtPass) {
     this.rootView = rootView;
     this.btnDangkyOn = btnDangkyOn;
+    this.btnLoginReg = btnLoginReg;
     this.edtEmailDangnky = edtEmailDangnky;
     this.edtMatkhauDangky = edtMatkhauDangky;
     this.edtRematkhauDangky = edtRematkhauDangky;
+    this.main = main;
+    this.txtConfirmPass = txtConfirmPass;
+    this.txtEmail = txtEmail;
+    this.txtPass = txtPass;
   }
 
   @Override
@@ -70,31 +93,58 @@ public final class ActivityDangKyBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.btn_dangky_on;
-      AppCompatButton btnDangkyOn = ViewBindings.findChildViewById(rootView, id);
+      Button btnDangkyOn = ViewBindings.findChildViewById(rootView, id);
       if (btnDangkyOn == null) {
         break missingId;
       }
 
+      id = R.id.btnLoginReg;
+      Button btnLoginReg = ViewBindings.findChildViewById(rootView, id);
+      if (btnLoginReg == null) {
+        break missingId;
+      }
+
       id = R.id.edt_email_dangnky;
-      EditText edtEmailDangnky = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText edtEmailDangnky = ViewBindings.findChildViewById(rootView, id);
       if (edtEmailDangnky == null) {
         break missingId;
       }
 
       id = R.id.edt_matkhau_dangky;
-      EditText edtMatkhauDangky = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText edtMatkhauDangky = ViewBindings.findChildViewById(rootView, id);
       if (edtMatkhauDangky == null) {
         break missingId;
       }
 
       id = R.id.edt_rematkhau_dangky;
-      EditText edtRematkhauDangky = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText edtRematkhauDangky = ViewBindings.findChildViewById(rootView, id);
       if (edtRematkhauDangky == null) {
         break missingId;
       }
 
-      return new ActivityDangKyBinding((LinearLayout) rootView, btnDangkyOn, edtEmailDangnky,
-          edtMatkhauDangky, edtRematkhauDangky);
+      LinearLayout main = (LinearLayout) rootView;
+
+      id = R.id.txtConfirmPass;
+      TextInputLayout txtConfirmPass = ViewBindings.findChildViewById(rootView, id);
+      if (txtConfirmPass == null) {
+        break missingId;
+      }
+
+      id = R.id.txtEmail;
+      TextInputLayout txtEmail = ViewBindings.findChildViewById(rootView, id);
+      if (txtEmail == null) {
+        break missingId;
+      }
+
+      id = R.id.txtPass;
+      TextInputLayout txtPass = ViewBindings.findChildViewById(rootView, id);
+      if (txtPass == null) {
+        break missingId;
+      }
+
+      return new ActivityDangKyBinding((LinearLayout) rootView, btnDangkyOn, btnLoginReg,
+          edtEmailDangnky, edtMatkhauDangky, edtRematkhauDangky, main, txtConfirmPass, txtEmail,
+          txtPass);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

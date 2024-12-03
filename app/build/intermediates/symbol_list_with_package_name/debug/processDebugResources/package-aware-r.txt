@@ -1381,6 +1381,7 @@ color cardview_dark_background
 color cardview_light_background
 color cardview_shadow_end_color
 color cardview_shadow_start_color
+color color_item_bottom_nav
 color common_google_signin_btn_text_dark
 color common_google_signin_btn_text_dark_default
 color common_google_signin_btn_text_dark_disabled
@@ -2970,6 +2971,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable accept
 drawable acceptdis
+drawable account
 drawable agent
 drawable avd_hide_password
 drawable avd_show_password
@@ -2984,6 +2986,7 @@ drawable baseline_question_mark_24
 drawable bell
 drawable bell_dis_
 drawable belldis
+drawable bg_log
 drawable bill
 drawable bill_kh
 drawable btn_checkbox_checked_mtrl
@@ -3047,12 +3050,17 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_person_add
 drawable ic_search_black_24
+drawable img
+drawable img_1
+drawable img_2
+drawable img_3
 drawable img_delete
 drawable logo
 drawable logo1
 drawable logo2
 drawable logo3
 drawable logo4
+drawable logofpt
 drawable logogoogle
 drawable m3_appbar_background
 drawable m3_avd_hide_password
@@ -3276,11 +3284,11 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btnLoginReg
 id btn_Huy
 id btn_Huy_nap
 id btn_Huy_yc
 id btn_Luu
-id btn_dangNhap_begin
 id btn_dangky
 id btn_dangky_on
 id btn_dangnhap
@@ -3309,6 +3317,7 @@ id chains
 id changePassword
 id checkbox
 id checked
+id chkRemember
 id chronometer
 id circle_center
 id clear_text
@@ -3430,9 +3439,6 @@ id frost
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
-id gl_line1
-id gl_line2
-id gl_line3
 id glide_custom_view_target_tag
 id gone
 id graph
@@ -3466,7 +3472,6 @@ id imgv_anhtop10
 id immediateStop
 id imv_addAnh
 id imv_addAnh_edit
-id imv_anh
 id imv_anh_gg
 id imv_anh_sp_ct
 id imv_anh_sp_cuahang
@@ -3476,9 +3481,6 @@ id imv_anhchupmanhinh
 id imv_anhsp
 id imv_avatar
 id imv_cancel
-id imv_icon1
-id imv_icon2
-id imv_logo
 id imv_updatethongtin
 id included
 id indeterminate
@@ -3818,9 +3820,6 @@ id tv_Thuonghieu
 id tv_Trangthai
 id tv_chonNgayEnd
 id tv_chonNgayStart
-id tv_creator
-id tv_creator_begin
-id tv_dangky_begin
 id tv_diaChi
 id tv_doanhThu
 id tv_gia
@@ -3857,12 +3856,14 @@ id tv_thoigiangg
 id tv_thongbao
 id tv_thongbao_rong
 id tv_thuonghieu_gioHang
-id tv_tittle
 id tv_tittle2
 id tv_tonggia_khoanchi
 id tv_trangThai_gg
 id tv_username_khach
 id tv_xoa_giohang
+id txtConfirmPass
+id txtEmail
+id txtPass
 id unchecked
 id uniform
 id unlabeled
@@ -4013,7 +4014,6 @@ layout activity_main
 layout activity_man_hinh_admin
 layout activity_man_hinh_chao
 layout activity_man_hinh_khach_hang
-layout activity_man_hinh_khoi_dau
 layout activity_man_hinh_nhan_vien
 layout activity_sanpham_show
 layout activity_show_more

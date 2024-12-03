@@ -58,9 +58,6 @@
             android:name="com.example.duan1t1.DangNhap_Activity"
             android:exported="false" />
         <activity
-            android:name="com.example.duan1t1.ManHinhKhoiDau_Activity"
-            android:exported="true" />
-        <activity
             android:name="com.example.duan1t1.ManHinhChao_Activity"
             android:exported="true" >
             <intent-filter>

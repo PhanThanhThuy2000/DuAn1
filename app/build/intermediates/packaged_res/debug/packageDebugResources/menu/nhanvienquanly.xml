@@ -3,25 +3,25 @@
 
 
     <item android:id="@+id/menu_nhanvien_qlsp"
-        android:title=""
+        android:title="Sản phẩm"
         android:icon="@drawable/sportshoe"
         />
 
     <item android:id="@+id/menu_nhanvien_thongke"
-        android:title=""
+        android:title="Thống kê"
         android:icon="@drawable/barchart"
         />
     <item android:id="@+id/menu_nhanvien_qlhd"
-        android:title=""
+        android:title="Hóa đơn"
         android:icon="@drawable/bill"
         />
 
     <item android:id="@+id/menu_nhanvien_hotro"
-        android:title=""
+        android:title="Hỗ trợ"
         android:icon="@drawable/agent"
         />
     <item android:id="@+id/menu_nhanvien_resetpass"
-        android:title=""
+        android:title="Đổi mật khẩu"
         android:icon="@drawable/resetpassword"
         />
 

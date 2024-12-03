@@ -2,98 +2,110 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:background="@drawable/bg_log"
     android:gravity="center"
-    android:background="@color/white"
-    >
+    android:orientation="vertical"
+    tools:context=".View.Register">
 
-    <ScrollView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
-        android:layout_gravity="center"
-        >
-        <LinearLayout
+        android:layout_margin="40dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WellCom Back"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Register!"
+            android:textColor="@color/white"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/txtEmail"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:gravity="center">
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:counterEnabled="true"
+            app:counterMaxLength="50"
+            app:errorEnabled="true"
+            app:hintEnabled="true">
 
-            <ImageView
-                android:layout_width="186dp"
-                android:layout_height="174dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/logo1" />
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Đăng ký"
-                android:textColor="#4CAF50"
-                android:textSize="40dp"
-                android:textStyle="bold"
-                tools:ignore="HardcodedText" />
-            <EditText
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:hint="Email"
-                android:textColorHint="#4CAF50"
-                android:padding="10dp"
-                tools:ignore="HardcodedText,UnusedAttribute"
-                android:textColor="#4CAF50"
-                android:searchResultHighlightColor="#4CAF50"
-                android:background="@drawable/shape_edittext"
+            <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/edt_email_dangnky"
-                />
-            <EditText
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:hint="Mật khẩu"
-                android:textColorHint="#4CAF50"
-                android:padding="10dp"
-                android:inputType="textPassword"
-                android:textColor="#4CAF50"
-                android:searchResultHighlightColor="#4CAF50"
-                android:layout_marginTop="10dp"
-                tools:ignore="Autofill,HardcodedText,UnusedAttribute"
-                android:background="@drawable/shape_edittext"
-                android:id="@+id/edt_matkhau_dangky"
-                />
-            <EditText
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:hint="Nhập lại mật khẩu"
-                android:textColorHint="#4CAF50"
-                android:padding="10dp"
-                android:inputType="textPassword"
-                android:textColor="#4CAF50"
-                android:searchResultHighlightColor="#4CAF50"
-                android:layout_marginTop="10dp"
-                tools:ignore="Autofill,HardcodedText,UnusedAttribute"
-                android:background="@drawable/shape_edittext"
-                android:id="@+id/edt_rematkhau_dangky"
-                />
-            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:gravity="center"
-                >
-                <androidx.appcompat.widget.AppCompatButton
-                    android:layout_width="150dp"
-                    android:layout_height="wrap_content"
-                    android:text="Đăng ký"
-                    tools:ignore="HardcodedText"
-                    android:padding="10dp"
-                    android:textColor="#4CAF50"
-                    android:textStyle="bold"
-                    android:layout_margin="10dp"
-                    android:background="@drawable/shape_edittext"
-                    android:id="@+id/btn_dangky_on"/>
-            </LinearLayout>
+                android:hint="Nhập email" />
+        </com.google.android.material.textfield.TextInputLayout>
 
-        </LinearLayout>
-    </ScrollView>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/txtPass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:errorEnabled="true"
+            app:hintEnabled="true"
+            app:passwordToggleEnabled="true">
 
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edt_matkhau_dangky"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nhập Password" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/txtConfirmPass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:hintEnabled="true"
+            app:passwordToggleEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edt_rematkhau_dangky"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nhập lại Password"
+                app:errorEnabled="true" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btn_dangky_on"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#8BC34A"
+            android:text="Đăng Ký"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnLoginReg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#03A9F4"
+            android:text="Bạn đã có tài khoản"
+            android:textStyle="bold" />
+
+    </LinearLayout>
 </LinearLayout>
